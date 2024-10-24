@@ -1,4 +1,5 @@
 Intellecta
+
 This repository contains a suite of tools and an AI Routing Agent that demonstrates the ability to build scalable and efficient AI applications.
 
 Overview
@@ -29,11 +30,3 @@ Calculate the product of twenty and five.: This will extract the numbers and rou
 How many vowels are in 'Python Programming'?: This will extract the string and route it to the Vowel Counter.
 Summarize the following text: 'Artificial Intelligence and Machine Learning are transforming industries by enabling new capabilities...': This will extract the text and route it to the LLM-Based Text Summarizer.
 Make this sentence funnier: 'I have a meeting at 9 AM tomorrow.': This will extract the sentence and route it to the LLM-Based Text Fun-ifier.
-Notes
-The code is written in Python 3.x and follows the PEP 8 style guide.
-The LLM-Based Text Summarizer and Text Fun-ifier use the Hugging Face Transformers library.
-The AI Routing Agent uses a simple natural language processing (NLP) approach to extract parameters from the user prompts.
-License
-The code is released under the MIT License.
-
-Author
