@@ -20,10 +20,7 @@ langchain: For LLM-Based Text Summarizer and Text Fun-ifier.
 numpy: For numerical computations.
 You can install the dependencies by running pip install -r requirements.txt.
 
-Usage
-Clone the repository: git clone https://github.com/your-username/mycroft-ai-project.git
-Install the dependencies: pip install -r requirements.txt
-Run the AI Routing Agent: python ai_routing_agent.py
+<br>
 Example usage:
 
 Calculate the product of twenty and five.: This will extract the numbers and route them to the Multiplication Tool.
