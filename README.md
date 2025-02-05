@@ -12,8 +12,6 @@ tools/: A package containing the four tools:
 + multiplication_tool.py: A Multiplication Tool that receives a list of numbers and returns their product.
 + vowel_counter.py: A Vowel Counter that counts the number of vowels in a given string.
 Requirements
-To run the code, you'll need to install the following dependencies:
-
 python: The code is written in Python 3.x.
 transformers: For LLM-Based Text Summarizer and Text Fun-ifier.
 langchain: For LLM-Based Text Summarizer and Text Fun-ifier.
